@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/.github.io/Login_Assignment/static/css/main.c2b73c47.chunk.css",
+    "main.js": "/.github.io/Login_Assignment/static/js/main.b4504245.chunk.js",
+    "main.js.map": "/.github.io/Login_Assignment/static/js/main.b4504245.chunk.js.map",
+    "runtime-main.js": "/.github.io/Login_Assignment/static/js/runtime-main.5f7af217.js",
+    "runtime-main.js.map": "/.github.io/Login_Assignment/static/js/runtime-main.5f7af217.js.map",
+    "static/css/2.30c2d978.chunk.css": "/.github.io/Login_Assignment/static/css/2.30c2d978.chunk.css",
+    "static/js/2.07511fcb.chunk.js": "/.github.io/Login_Assignment/static/js/2.07511fcb.chunk.js",
+    "static/js/2.07511fcb.chunk.js.map": "/.github.io/Login_Assignment/static/js/2.07511fcb.chunk.js.map",
+    "index.html": "/.github.io/Login_Assignment/index.html",
+    "precache-manifest.b609aa874f7d451b1f573c7a18bdcff5.js": "/.github.io/Login_Assignment/precache-manifest.b609aa874f7d451b1f573c7a18bdcff5.js",
+    "service-worker.js": "/.github.io/Login_Assignment/service-worker.js",
+    "static/css/2.30c2d978.chunk.css.map": "/.github.io/Login_Assignment/static/css/2.30c2d978.chunk.css.map",
+    "static/css/main.c2b73c47.chunk.css.map": "/.github.io/Login_Assignment/static/css/main.c2b73c47.chunk.css.map",
+    "static/js/2.07511fcb.chunk.js.LICENSE.txt": "/.github.io/Login_Assignment/static/js/2.07511fcb.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/.github.io/Login_Assignment/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5f7af217.js",
+    "static/css/2.30c2d978.chunk.css",
+    "static/js/2.07511fcb.chunk.js",
+    "static/css/main.c2b73c47.chunk.css",
+    "static/js/main.b4504245.chunk.js"
+  ]
+}
